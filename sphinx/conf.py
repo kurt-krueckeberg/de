@@ -29,7 +29,7 @@ source_suffix = {
     '.md': 'markdown',
 }
 
-html_theme = 'groundwork'
+html_theme = 'furo'
 
 html_static_path = ['_static']
 
