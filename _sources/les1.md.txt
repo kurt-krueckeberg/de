@@ -34,7 +34,7 @@ up when we pronounce the word "chick'in" or "chickn'n". In English and some othe
 
 ###  S sounds
 
-`\z\` is the voiced s sound in words like: bee,fly,wasp. The "zzz..." sound; for example
+`\z\` is the voiced s sound in words like: bee,fly,wasp. The "zzz..." sound; as in, for example, the word rasen:
 
 ```
 ra·sen [ˈra:zn̩]
