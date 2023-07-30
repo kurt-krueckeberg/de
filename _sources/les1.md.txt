@@ -45,4 +45,4 @@ ra·sen [ˈra:zn̩]
 
 `\s\` is the unvoiced s sound. `ß` has the `\s\` sound.
 
-Rede (speech) in IPA would be `'re:də`
+Rede (speech) spelled in IPA would be `'re:də`
