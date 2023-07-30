@@ -29,10 +29,10 @@ source_suffix = {
     '.md': 'markdown',
 }
 
-html_theme = 'furo'
+html_theme = 'book_theme'
 
 html_static_path = ['_static']
 
 html_css_files = [
-#   'custom.css',
+   'custom.css',
 ]
