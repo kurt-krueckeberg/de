@@ -49,3 +49,15 @@ ra·sen [ˈra:zn̩]
 `\s\` is the unvoiced s sound. `ß` has the `\s\` sound.
 
 Rede (speech) spelled in IPA would be `'re:də`
+
+
+## `\ɐ\` central, near open vowel
+
+Vowels in the IPA are mapped according to the position of the tongue. The positions of the tongue relative to the bottom or top of the mouth are
+described using the terms Open, Near-open, Open-mid, Mid, Close-mid, Near-close, and Close. Open vowels are pronounced with the tongue lowered;
+while Lowered vowels are pronounced with the tongue raised.
+
+The position of the tongue relatives to the front or back of the mouth is described using the terms: Front, Central, Back. Front means the front of the
+mouth and Back the back.
+
+The `\ɐ\` vowel sound in pronounced wit the tongue Near-open (nearly lowered) and Centralling placed (between front and back).
