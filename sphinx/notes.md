@@ -22,15 +22,18 @@ In the IPA, a word like, say, [mal](https://en.pons.com/translate/german-english
 ˈma:l
 ```
 
-The apostrophe `ˈ` indicates that the first syllable is stressed.  The `:` after the `a` indicates it is a long vowel. PONS dictionary gives
-the IPA spelling of words. In PONS, the word [malen](https://en.pons.com/translate/german-english/malen), which also has a long "a", is written:
+`ˈ` indicates the beginning of the word is stressed.  The `:` after `a` indicates `a` is long. PONS dictionary gives
+the IPA spelling of words; for example, the word [malen](https://en.pons.com/translate/german-english/malen), which also has a long "a", is written:
 
 ```
 ma·len [ˈma:lən]
 ```
 
 The upside down backward "e" is the schwa symbol. It stands for an unstressed or weak vowel sound like the "e" in chicken that gets swallowed
-up when we pronounce the word "chick'in" or "chickn'n". In English and some other languages, it usually represents the mid central vowel sound
+up when we pronounce the word "chick'in" or "chickn'n". In English and some other languages, it usually represents the mid central vowel sound.
+In German the schwa only occurs with the letter `e`. The best examples of this are the inflected endings of verb stems: reden, redest, lesen, 
+machen, 
+
 
 ###  S sounds
 
