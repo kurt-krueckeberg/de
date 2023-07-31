@@ -1,6 +1,16 @@
 # Aussprache
 
+[Improve your German pronunciation to sound like a native](https://preply.com/en/blog/improve-your-german-pronunciation-to-sound-like-a-native/) is 
+pronounciation guide for learning proper German pronouncation.
+
 ## Sounds of German in the IPA
+
+Tools:
+
+- German [IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/)
+- German to IPA [translator](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de).
+- Youtube [sounds of German](https://www.youtube.com/playlist?list=PLM9N2zvFTBQ-ZEbNEiOQh1mtYTQ9Ybk4a) playlist
+
 
 ### Vowels
 
