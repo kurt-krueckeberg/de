@@ -16,7 +16,7 @@ The German long vowels are written in the IPA as:
 The slashes are not part of its IPA pronouncation.  They are used to illustrate it is a single letter (not a word).
 :::
 
-In the IPA, a word like, say, [mal](https://en.pons.com/translate/german-english/mal), is written
+In the [IPA](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/), a word like, say, [mal](https://en.pons.com/translate/german-english/mal), is written
 
 ```
 ˈma:l
@@ -60,4 +60,4 @@ while Lowered vowels are pronounced with the tongue raised.
 The position of the tongue relatives to the front or back of the mouth is described using the terms: Front, Central, Back. Front means the front of the
 mouth and Back the back.
 
-The `\ɐ\` vowel sound in pronounced wit the tongue Near-open (nearly lowered) and Centralling placed (between front and back).
+The `\ɐ\` vowel sound is pronounced with the tongue Near-open (nearly lowered to the bottom of the mouth) and Centrally placed (between front and back).
