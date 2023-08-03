@@ -60,7 +60,6 @@ ra·sen [ˈra:zn̩]
 
 Rede (speech) spelled in IPA would be `'re:də`
 
-
 ## `\ɐ\` central, near open vowel
 
 Vowels in the IPA are mapped according to the position of the tongue. The positions of the tongue relative to the bottom or top of the mouth are
@@ -74,5 +73,5 @@ The `\ɐ\` vowel sound is pronounced with the tongue Near-open (nearly lowered t
 
 ## German ch Sound
 
-There are two basic "ch" sounds in German the "ch" heard in **ich** or **München** and the "ch" heard in **Ach**. See the IPA for [München](https://en.pons.com/translate/german-english/München).
+There are two basic **ch** sounds in German the **ch** heard in **ich** or **München** and the **ch** heard in **Ach**. See the IPA for [München](https://en.pons.com/translate/german-english/München).
 
