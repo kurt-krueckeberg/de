@@ -18,7 +18,11 @@ Videos on IPA
 
 
 - [IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/)
-- German to IPA [translator](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de).
+
+Tool for converting German words to IPA:
+- German to IPA [translator](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de)
+
+Uncertain
 - Youtube [sounds of German](https://www.youtube.com/playlist?list=PLM9N2zvFTBQ-ZEbNEiOQh1mtYTQ9Ybk4a) playlist
 
 ### Vowels
