@@ -5,12 +5,11 @@ pronounciation guide for learning proper German pronouncation.
 
 ## Sounds of German in the IPA
 
-Tools:
+See there IPA tools:
 
 - German [IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/)
 - German to IPA [translator](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de).
 - Youtube [sounds of German](https://www.youtube.com/playlist?list=PLM9N2zvFTBQ-ZEbNEiOQh1mtYTQ9Ybk4a) playlist
-
 
 ### Vowels
 
@@ -32,7 +31,7 @@ In the [IPA](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-
 ˈma:l
 ```
 
-`ˈ` indicates the beginning of the word is stressed.  The `:` after `a` indicates `a` is long. PONS dictionary gives
+The `ˈ` above indicates the beginning of the word is stressed.  The `:` after `a` indicates `a` is long. [PONS] dictionary gives
 the IPA spelling of words; for example, the word [malen](https://en.pons.com/translate/german-english/malen), which also has a long "a", is written:
 
 ```
@@ -45,7 +44,7 @@ In German the schwa only occurs with the letter `e`. The best examples of this a
 machen, 
 
 
-###  S sounds
+###  s sounds
 
 `\z\` is the voiced s sound in words like: bee,fly,wasp. The "zzz..." sound; as in, for example, the word rasen:
 
@@ -73,5 +72,22 @@ The `\ɐ\` vowel sound is pronounced with the tongue Near-open (nearly lowered t
 
 ## German ch Sound
 
-There are two basic **ch** sounds in German the **ch** heard in **ich** or **München** and the **ch** heard in **Ach**. See the IPA for [München](https://en.pons.com/translate/german-english/München).
+There are two basic **ch** sounds in German the **ch** heard in **ich** or **München** and the **ch** heard in **Ach**. See the IPA for
+[München](https://en.pons.com/translate/german-english/München). The more guttaral "ch" sound is used when the "ch" follows the vowels `a`, `o` or `u`,
+as in words like:
+
+- auch
+- Buch
+- besucht
+- acht
+- achtzig
+- hoch
+- Hochzeit
+- Loch
+
+## German Dark Vowels: a, o and u
+
+The vowels a, o and u are "dark" vowels. They are pronounced deeper in the throat. When they precede "ch", the "ch" has the guttaral sound.
+
+
 
