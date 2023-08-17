@@ -5,9 +5,19 @@ pronounciation guide for learning proper German pronouncation.
 
 ## Sounds of German in the IPA
 
-See there IPA tools:
+German pronouncation videos
 
-- German [IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/)
+- [German Pronounciation 1](https://www.youtube.com/watch?v=mzrLZi6fipA)
+- [" 2](https://www.youtube.com/watch?v=kEHfUKJ_yms)
+- [" 3](https://www.youtube.com/watch?v=Pg2NMEONKxk)
+
+Videos on IPA
+
+- [](https://www.youtube.com/watch?v=_MpH8U4cZc8&pp=ygUKR2VybWFuIElQQQ%3D%3D)
+- [Let's Explore the IPA](https://www.youtube.com/watch?v=J-Y3xcuZwDg)
+
+
+- [IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/)
 - German to IPA [translator](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de).
 - Youtube [sounds of German](https://www.youtube.com/playlist?list=PLM9N2zvFTBQ-ZEbNEiOQh1mtYTQ9Ybk4a) playlist
 
