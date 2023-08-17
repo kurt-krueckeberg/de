@@ -13,7 +13,7 @@ German pronouncation videos
 
 Videos on IPA
 
-- [](https://www.youtube.com/watch?v=_MpH8U4cZc8&pp=ygUKR2VybWFuIElQQQ%3D%3D)
+- [Learn how to pronounce German correctly with the IPA - Ellen de Visser | PG 2018](https://www.youtube.com/watch?v=_MpH8U4cZc8&pp=ygUKR2VybWFuIElQQQ%3D%3D)
 - [Let's Explore the IPA](https://www.youtube.com/watch?v=J-Y3xcuZwDg)
 
 
