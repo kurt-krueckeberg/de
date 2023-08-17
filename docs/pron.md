@@ -10,7 +10,7 @@ German pronouncation videos
 
 Videos on IPA
 
-- [Let's Explore the IPA](https://www.youtube.com/watch?v=J-Y3xcuZwDg)
+- [IPA Intro]https://www.youtube.com/watch?v=tpR5GdKXpGc)
 
 - [German IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/). Has every German IPA sound and an example word
   illustrating that German IPA sound.
