@@ -8,8 +8,8 @@ pronounciation guide for learning proper German pronouncation.
 German pronouncation videos
 
 - [German Pronounciation 1](https://www.youtube.com/watch?v=mzrLZi6fipA)
-- [" 2](https://www.youtube.com/watch?v=kEHfUKJ_yms)
-- [" 3](https://www.youtube.com/watch?v=Pg2NMEONKxk)
+- [German Pronounciation 2](https://www.youtube.com/watch?v=kEHfUKJ_yms)
+- [German Pronounciation 3](https://www.youtube.com/watch?v=Pg2NMEONKxk)
 
 Videos on IPA
 
