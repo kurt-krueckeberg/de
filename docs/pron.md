@@ -12,15 +12,13 @@ Videos on IPA
 
 - [Let's Explore the IPA](https://www.youtube.com/watch?v=J-Y3xcuZwDg)
 
-
 - [German IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/). Has every German IPA sound and an example word
   illustrating that German IPA sound.
 
-Tool for converting German words to IPA:
-- German to IPA [translator](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de)
+- Convert a German word to its [IPA pronounciation](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de)
 
-Uncertain
-- Youtube [sounds of German](https://www.youtube.com/playlist?list=PLM9N2zvFTBQ-ZEbNEiOQh1mtYTQ9Ybk4a) playlist
+- Youtube [sounds of German](https://www.youtube.com/playlist?list=PLM9N2zvFTBQ-ZEbNEiOQh1mtYTQ9Ybk4a) playlist. This gives every sound, but
+  that alone is not very meaningful.
 
 ### Vowels
 
