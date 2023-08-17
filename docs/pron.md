@@ -10,11 +10,11 @@ German pronouncation videos
 
 Videos on IPA
 
-- [Learn how to pronounce German correctly with the IPA - Ellen de Visser | PG 2018](https://www.youtube.com/watch?v=_MpH8U4cZc8&pp=ygUKR2VybWFuIElQQQ%3D%3D)
 - [Let's Explore the IPA](https://www.youtube.com/watch?v=J-Y3xcuZwDg)
 
 
-- [IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/)
+- [German IPA Guide](https://blog.collinsdictionary.com/ipa-pronunciation-guide-german/). Has every German IPA sound and an example word
+  illustrating that German IPA sound.
 
 Tool for converting German words to IPA:
 - German to IPA [translator](https://unalengua.com/ipa?ttsLocale=de-DE&voiceId=Marlene&sl=de)
