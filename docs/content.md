@@ -1,16 +1,14 @@
 # Aussprache
 
-## Helpful Links
+## Some Links
 
-### Videos
-
-Fluent Forever three video series:
+Fluent Forever three part series of videos:
 
 - [Video #1](https://www.youtube.com/watch?v=mzrLZi6fipA)
 - [Video #2](https://www.youtube.com/watch?v=kEHfUKJ_yms)
 - [Video #3](https://www.youtube.com/watch?v=Pg2NMEONKxk)
 
-Others:
+Others videos:
 
 - [German for Singers](https://www.youtube.com/@GermanforSingers)
 
