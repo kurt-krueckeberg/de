@@ -28,10 +28,10 @@ source_suffix = {
     '.md': 'markdown',
 }
 
-html_theme = 'sphinx_book_theme'
+html_theme = 'groundwork'
 
 html_static_path = ['_static']
 
-html_css_files = [
-   'custom.css',
-]
+#html_css_files = [
+#   'custom.css',
+#]
