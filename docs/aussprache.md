@@ -47,9 +47,7 @@ swallowed, so what you hear is "chick'n" or "chick'in".
 
 `\z\` is the voiced s sound in words like: bee,fly,wasp. The "zzz..." sound; as in, for example, the word rasen:
 
-```
-ra·sen [ˈra:zn̩]
-```
+`ra·sen [ˈra:zn̩]`
 
 - rasen (to race,to drive too fast)
 - der Rasen (meadow)
