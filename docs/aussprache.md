@@ -40,7 +40,7 @@ when the "ch" follows the vowels `a`, `o` or `u`, like in:
 
 ## Schwa
 
-In the IPA, <span>&#x258;</span> is the schwa symbol. It stands for an unstressed or weak vowel sound like the weakened "e" sound in chicken, where the "e" gets
+In the IPA, /ə/ is the schwa symbol. It stands for an unstressed or weak vowel sound like the weakened "e" sound in chicken, where the "e" gets
 swallowed, so what you hear is "chick'n" or "chick'in".
 
 ## s sounds

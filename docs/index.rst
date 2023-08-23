@@ -10,7 +10,7 @@ Welcome to German Pronounciation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   content.md
+   aussprache.md
 
 Indices and tables
 ==================
