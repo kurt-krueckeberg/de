@@ -40,8 +40,8 @@ when the "ch" follows the vowels `a`, `o` or `u`, like in:
 
 ## Schwa
 
-Written ![schwa](images/schwa.jpg) is the schwa symbol. It stands for an unstressed or weak vowel sound like the "e" in chicken that gets swallowed, so it
-is pronounced "chick'n" or "chick'in".
+In the IPA, &#x258; is the schwa symbol. It stands for an unstressed or weak vowel sound like the weakened "e" sound in chicken, where the "e" gets
+swallowed, so what you hear is "chick'n" or "chick'in".
 
 ## s sounds
 
