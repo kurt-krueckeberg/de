@@ -58,4 +58,4 @@ Rede (speech) spelled in IPA would be `'re:də`
 
 ## German IPA for the Vowels
 
-The IPA for the German consonants and vowels with examples is [here](https://en.wikipedia.org/wiki/Help:IPA/Standard_German). 
+An IPA chart for German consonants and vowels along with examples is [here](https://en.wikipedia.org/wiki/Help:IPA/Standard_German). 
